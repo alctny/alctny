@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**lwifew/lwifew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+赵客缦胡缨，吴钩霜雪明；
+银鞍照白马，飒沓如流星。
+十步杀一人，千里不留行；
+事了拂衣去，深藏身与名。
+闲过信陵饮，脱剑膝前横；
+将炙啖朱亥，持觞劝侯嬴。
+三杯吐然诺，五岳倒为轻；
+眼花耳热后，意气素霓生。
+救赵挥金槌，邯郸先震惊；
+千秋二壮士，烜赫大梁城。
+纵死侠骨香，不惭世上英；
+谁能书阁下，白首太玄经。
