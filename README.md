@@ -1,12 +1,5 @@
-<p align="center">君不見黃河之水天上來，奔流到海不復回。</p>
-<p align="center">君不見高堂明鏡悲白髮，朝如青絲暮成雪。</p>
-<p align="center">人生得意須盡歡，莫使金樽空對月。</p>
-<p align="center">天生我材必有用，千金散盡還復來。</p>
-<p align="center">烹羊宰牛且爲樂，會須一飲三百杯。</p>
-<p align="center">岑夫子，丹丘生。將進酒，杯莫停。</p>
-<p align="center">與君歌一曲，請君爲我側耳聽。</p>
-<p align="center">鐘鼓饌玉不足貴，但願長醉不願醒。</p>
-<p align="center">古來聖賢皆寂寞，惟有飲者留其名。</p>
-<p align="center">陳王昔時宴平樂，斗酒十千恣讙謔。</p>
-<p align="center">主人何為言少錢？徑須沽取對君酌。</p>
-<p align="center">五花馬，千金裘。呼兒將出換美酒，與爾同銷萬古愁。</p>
+<p align="center">啊啊，神啊……我要把你切碎做成豬飼料！！！</p>
+<p align="center">該死的神不適合我們的戰場！</p>
+<p align="center">現在就讓我們來接替神的工作吧！</p>
+<p align="center">只要有我們的键盘在，我們就要取神而代之！</p>
+<p align="center">讓傲慢的神失業吧！</p>
