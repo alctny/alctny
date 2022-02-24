@@ -1,5 +1,9 @@
-<p align="center">啊啊，神啊……我要把你切碎做成豬飼料！！！</p>
-<p align="center">該死的神不適合我們的戰場！</p>
-<p align="center">現在就讓我們來接替神的工作吧！</p>
-<p align="center">只要有我們依在，我們就要取神而代之！</p>
-<p align="center">讓傲慢的神失業吧！</p>
+
+<p align="center">私は今ここに改めて宣言する。</p>
+<p align="center">ああ、神よ。</p>
+<p align="center">貴様を切り刻んで豚の餌にでもしてやると。</p>
+<p align="center">くそったれの神に、我らが戦場は不似合いだ。</p>
+<p align="center">今こそ神の仕事を肩代わりしてやろうではないか。</p>
+<p align="center">我ら将兵のあるうちは我々が神にとって代わるのだ。</p>
+<p align="center">傲慢な神とやらを失業させてやれ！</p>
+<p align="center">では戦友諸君、戦争の時間だ。</p>
